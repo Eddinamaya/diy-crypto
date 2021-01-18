@@ -1,4 +1,5 @@
+import { caesarEncrypt, caesarDecrypt } from "./diycrypto.js"
 
-import { caesarEncript, caesarEncript } from "./diycrypto.js"
+//console.log(caesarEncrypt("HELLO", 1)) = GDKKN
 
-console.log(caesarEncript("HELLO; 1"))
+//console.log(caesarEncrypt('IFK', 1)) = HEJ
